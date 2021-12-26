@@ -12,6 +12,10 @@
 
 • For Live Demo use cors extension 
 
+• sandeep santosh sameer are registered usernames you can chat using these names 
+
+• or you can register new user and start the chat
+
 
 # Features
 
