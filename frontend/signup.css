@@ -1,0 +1,49 @@
+.signup_container {
+  border: 1px solid black;
+  height: 70vh;
+  width: 50vw;
+  background-image: url("back_img.png");
+  border-radius: 5px;
+  margin: auto;
+}
+.signup_container h1 {
+  color: white;
+}
+.signup_container div {
+  margin-top: 5%;
+  color: white;
+}
+.signup_in {
+  width: 60%;
+  margin-left: 20%;
+  height: 6vh;
+  margin-bottom: 3vh;
+  border-radius: 10px;
+  border: none;
+}
+::-webkit-input-placeholder {
+  color: grey;
+  padding-left: 2%;
+}
+textarea:focus,
+input:focus {
+  outline: none;
+}
+button {
+  width: 30%;
+  margin-left: 35%;
+  height: 6vh;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: rgb(37, 211, 102);
+  color: white;
+  border: none;
+}
+legend {
+  font-weight: bold;
+  margin-left: 20%;
+  margin-bottom: 1vh;
+}
+.empty {
+  height: 6vh;
+}

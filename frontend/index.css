@@ -1,0 +1,95 @@
+h1 {
+  text-align: center;
+}
+.container {
+  border: 1px solid black;
+  height: 70vh;
+  width: 50vw;
+  margin: auto;
+  background-image: url("back_img.png");
+  border-radius: 5px;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+/* scroll */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(3, 20, 31);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(250, 248, 248);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(235, 227, 227);
+}
+
+/* :end */
+.left {
+  float: left;
+  clear: both;
+  border: 1px solid black;
+  padding: 1%;
+  border-radius: 5px;
+  background-color: blanchedalmond;
+  margin-left: 1%;
+  margin-top: 15px;
+  font-weight: 300;
+}
+.right {
+  float: right;
+  clear: both;
+  border: 1px solid black;
+  padding: 1%;
+  border-radius: 5px;
+  background-color: rgb(37, 211, 102);
+  margin-right: 1%;
+  margin-top: 15px;
+  color: white;
+  font-weight: 300;
+}
+
+#myIn {
+  width: 50vw;
+  margin: auto;
+  /* border: 1px solid black; */
+}
+
+.in_show {
+  /* border: 1px solid black; */
+  width: 50vw;
+  margin: auto;
+  margin-top: 2vh;
+}
+.in_show input {
+  width: 91.9%;
+  height: 5vh;
+  /* border: none; */
+  border-color: gray;
+  border-radius: 7px;
+}
+::-webkit-input-placeholder {
+  color: grey;
+  padding-left: 1%;
+}
+textarea:focus,
+input:focus {
+  outline: none;
+}
+.in_show button {
+  border: none;
+  height: 6vh;
+  margin-left: 2px;
+  border-radius: 4px;
+  background-color: rgb(37, 211, 102);
+  /* color: white; */
+  border: none;
+  cursor: pointer;
+}
