@@ -1,4 +1,4 @@
-# chatapp
+# Live Chatapp
 
 # Usage
 
@@ -31,4 +31,14 @@
 •express
 
 # Screenshots
+
+![alt text](https://github.com/sandeepnilaji/chatapp_asgnfullstack/blob/master/assests/1.png "Logo Title Text 1")
+
+
+![alt text](https://github.com/sandeepnilaji/chatapp_asgnfullstack/blob/master/assests/2.png "Logo Title Text 1")
+
+![alt text](https://github.com/sandeepnilaji/chatapp_asgnfullstack/blob/master/assests/3.png "Logo Title Text 1")
+
+![alt text](https://github.com/sandeepnilaji/chatapp_asgnfullstack/blob/master/assests/4.png "Logo Title Text 1")
+
 
